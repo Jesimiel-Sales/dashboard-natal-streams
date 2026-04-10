@@ -128,3 +128,5 @@ if __name__ == '__main__':
     # debug=True permite hot-reload e mostra erros no navegador
     # host='0.0.0.0' permite acessar de outros dispositivos na rede
     app.run(debug=True, host='127.0.0.1', port=8050)
+
+    #apenas pra constar alteração para testar o stash

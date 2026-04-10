@@ -4,5 +4,9 @@ testando git
 :q
 
 
-blz,tavatestando e aprendendo os atalhos tambḿ
+blz,tavatestando e aprendendo os atalhos também
 
+
+bla bla bla, vou resetar:
+
+Salvando tags
