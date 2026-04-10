@@ -1,0 +1,8 @@
+testando git
+:wq
+
+:q
+
+
+blz,tavatestando e aprendendo os atalhos tambḿ
+
