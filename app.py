@@ -43,7 +43,7 @@ app = Dash(__name__)
 # Layout visual - tudo que aparece na tela
 app.layout = html.Div([
     # Título principal
-    html.H1("🎄 Guerra do Natal nos Streamings (2016–2026)", 
+    html.H1("Streamings: Mariah vs George (2016–2026)", 
             style={'textAlign': 'center', 'color': '#2c3e50'}),
     
     # Subtítulo
